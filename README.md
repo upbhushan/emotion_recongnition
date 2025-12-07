@@ -78,7 +78,4 @@ https://affective-meld.github.io/
 
 ---
 
-## Installation
 
-```bash
-pip install -r requirements.txt
